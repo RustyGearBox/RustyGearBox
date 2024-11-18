@@ -7,7 +7,7 @@
   <br>
   ⚡: Fun fact: My nickname 'GearBox' is due to the videogame 'Bordelands 2'<br>
 
-**Find me on:**
+### Find me on:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial)
 
 <h1>Skills</h1>
