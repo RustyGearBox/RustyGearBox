@@ -15,7 +15,7 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postman,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,bootstrap,html,css" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 ### ⚙️ &nbsp;Version Controll & Tools 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,windows,netbeans"/>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,windows,netbeans"/>
   </a>
 </p>
 
