@@ -15,7 +15,7 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,bootstrap,html5,css3" />
+    <img src="https://skillicons.dev/icons?i=java,spring,bootstrap,html,css" />
   </a>
 </p>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
