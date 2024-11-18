@@ -7,7 +7,7 @@
   <br>
   ⚡: Fun fact: My nickname 'GearBox' is due to the videogame 'Bordelands 2'<br>
 
-## Skills
+<h1>Skills</h1>
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
