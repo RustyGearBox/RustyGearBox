@@ -29,7 +29,7 @@
 ### ⚙️ &nbsp;Version Controll & Tools 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,netbeans,windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,netbeans,windows"/>
   </a>
 </p>
 
