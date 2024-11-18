@@ -1,7 +1,3 @@
-<hr>
-<h1 align="center">I'm <a href="https://github.com/RustyGearBox"> Matías Meza <a> </h1>
-<br>
-  
 <h1>About Me: </h1>
 - 🏫: I'm a graduated in Multiplatform App Development <br>
 - 💻: I’m currently learning Java & SpringBoot at @IT-Academy-BCN <br>
