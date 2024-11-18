@@ -1,10 +1,12 @@
-<h1 align="center"><b>Hi , I'm GearBox </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+	<b>Hi , I'm GearBox </b>
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 <br>
-	
 <h2>About me</h2>
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- A passionate Self-taught Front-end developer<br>
+- Playing CTF's at spare time<br>
+- Currently learning Web Development by Self<br>
 
 <br>
 <br>
