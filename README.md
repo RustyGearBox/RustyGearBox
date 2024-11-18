@@ -1,13 +1,13 @@
 <h1>About Me</h1>
   🏫: I'm a graduated in Multiplatform App Development <br>
-  💻: I’m currently learning Java & SpringBoot at @IT-Academy-BCN <br>
+  💻: I’m currently learning Java & SpringBoot at @IT-Academy-BCN<br>
   🤖: I’m looking for help with anything I am currently learning! <br>
   👾: In my free time I love to play videogames, watch movies and listen music <br>
   💬: We can talk in English, Spanisha and Catalan <br>
   <br>
-  ⚡: Fun fact: My Nickname 'GearBox' is due to the videogame 'Bordelands 2'
+  ⚡: Fun fact: My nickname 'GearBox' is due to the videogame 'Bordelands 2'<br>
 
-**Get in touch with me:**
+***Get in touch with me:***
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiasmezarico/)](https://www.linkedin.com/in/matiasmezarico/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat&logo=Gmail&logoColor=white&link=mailto:gearbox.bit@gmail.com)](mailto:gearbox.bit@gmail.com)
@@ -22,7 +22,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Junit](https://img.shields.io/badge/-JUnit-red?style=flat&logo=junit5&logoColor=white)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 **DevOps:**
 
