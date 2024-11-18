@@ -15,7 +15,7 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap" />
   </a>
 </p>
 
