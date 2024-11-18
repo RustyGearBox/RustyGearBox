@@ -10,7 +10,7 @@
 ### Find me on:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasmezarico/)
 
-<h1>Skills</h1>
+<h1>👻 Skills</h1>
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
