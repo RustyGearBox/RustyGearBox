@@ -1,4 +1,4 @@
-<h1>About Me</h1>
+<h1>👋 About Me</h1>
   🏫: I'm a graduated in Multiplatform App Development <br>
   💻: I’m currently learning SpringBoot at @IT-Academy-BCN<br>
   🤖: I’m looking for help with anything I am currently learning! <br>
