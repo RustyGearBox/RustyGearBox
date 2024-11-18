@@ -10,7 +10,7 @@
 ### Find me on:
 <p align="left">
   <a href="https://www.linkedin.com/in/matiasmezarico/">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
