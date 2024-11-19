@@ -6,11 +6,12 @@
   💬: We can talk in English, Spanish and Catalan <br>
   <br>
   ⚡: Fun fact: My nickname 'GearBox' is due to the videogame 'Bordelands 2'<br>
+  <br>
 
   **Find me on:**
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lnkdin-matiasmeza/)](https://www.linkedin.com/in/lnkdin-matiasmeza/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat&logo=Gmail&logoColor=white&link=mailto:tk7.mrm@gmail.com)](mailto:tk7.mrm@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lnkdin-matiasmeza/)](https://www.linkedin.com/in/lnkdin-matiasmeza/)
 
 
 <h1>👻 Skills</h1>
