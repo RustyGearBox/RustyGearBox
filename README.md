@@ -19,7 +19,7 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,mysqlmongodb,idea,vscode,windows,netbeans,github,git,postman" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 ### ⚙️ &nbsp;Version Controll & Tools 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,windows,netbeans"/>
+    <img src="https://skillicons.dev/icons?i=idea,vscode,windows,netbeans,github,git,postman"/>
   </a>
 </p>
 
