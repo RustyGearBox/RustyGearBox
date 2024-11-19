@@ -21,19 +21,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,mongodb,mysql,git,github,postman,idea,vscode,windows,netbeans" />
   </a>
-</p
-
-### 🗃 &nbsp;Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
 </p>
-
-### ⚙️ &nbsp;Version Controll & Tools 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,windows,netbeans,github,git,postman"/>
-  </a>
-</p>
-
