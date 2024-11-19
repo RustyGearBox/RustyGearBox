@@ -12,6 +12,13 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,postman,mongodb,mysql,git,github,idea,vscode,windows,netbeans" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,postman,mongodb,mysql" />
+  </a>
+</p>
+
+### 🛠 &nbsp;Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,windows,netbeans" />
   </a>
 </p>
