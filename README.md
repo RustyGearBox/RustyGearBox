@@ -18,13 +18,13 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
   <a href="https://github.com/RustyGearBox">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,bootstrap,postman," />
   </a>
 </p>
 
 ### ⚙️ &nbsp;Tools
 <p align="left">
   <a href="https://github.com/RustyGearBox">
-    <img src="https://skillicons.dev/icons?i=postman,git,github,idea,vscode,windows,netbeans" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,windows,netbeans" />
   </a>
 </p>
