@@ -7,13 +7,6 @@
   <br>
   ⚡: Fun fact: My nickname 'GearBox' is due to the videogame 'Bordelands 2'<br>
 
-### Find me on:
-<p align="left">
-  <a href="https://www.linkedin.com/in/matiasmezarico/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
 <h1>👻 Skills</h1>
 
 ### 🛠 &nbsp;Tech Stack
