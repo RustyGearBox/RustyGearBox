@@ -11,14 +11,14 @@
 
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,bootstrap,postman" />
   </a>
 </p>
 
 ### 🛠 &nbsp;Tools
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,windows,netbeans" />
   </a>
 </p>
