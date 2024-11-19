@@ -14,7 +14,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lnkdin-matiasmeza/)](https://www.linkedin.com/in/lnkdin-matiasmeza/)
 
 
-<h1>👻 Skills</h1>
+<h1>💻 Skills</h1>
 
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
