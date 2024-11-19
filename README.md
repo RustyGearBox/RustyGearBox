@@ -12,7 +12,7 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,postman,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,bootstrap,postman,mysql,mongodb" />
   </a>
 </p>
 
