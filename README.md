@@ -19,9 +19,9 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,mysqlmongodb,idea,vscode,windows,netbeans,github,git,postman" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,mongodb,mysql,git,github,postman,idea,vscode,windows,netbeans" />
   </a>
-</p>
+</p
 
 ### 🗃 &nbsp;Databases
 <p align="left">
