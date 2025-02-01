@@ -4,8 +4,6 @@
   👽: In my free time I love to play videogames, watch movies and listen music <br>
   💬: We can talk in English, Spanish and Catalan <br>
   <br>
-  👾: Fun fact: My nickname 'GearBox' is due to the videogame 'Bordelands 2'<br>
-  <br>
 
   **Find me on:**
 
