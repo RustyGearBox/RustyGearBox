@@ -1,6 +1,6 @@
 <h1>👋 About Me</h1>
   🎓: I'm a graduated in Multiplatform App Development <br>
-  🌱: I just finished, the bootcamp of SpringBoot at @IT-Academy-BCN<br>
+  🌱: I just finished, the bootcamp of Spring at @IT-Academy-BCN<br>
   👽: In my free time I love to play videogames, watch movies and listen music <br>
   💬: We can talk in English, Spanish and Catalan <br>
   <br>
