@@ -1,27 +1,28 @@
-<h1>👋 About Me</h1>
-  🎓: I'm a graduated in Multiplatform App Development <br>
-  👽: In my free time I love to play videogames, watch movies and listen music <br>
-  💬: We can talk in English, Spanish and Catalan <br>
-  <br>
+# Hi there, I'm Matías! 👋
 
-  **Find me on:**
+### 🚀 Backend Developer
+I'm a Backend Developer based in **Barcelona, Spain**, with a background in Mechanical Engineering. I love combining engineering problem-solving with software development to build cool, functional applications. Right now, I'm focusing on building robust backend systems and crafting tools for my friends and me to enjoy.
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat&logo=Gmail&logoColor=white&link=mailto:tk7.mrm@gmail.com)](mailto:tk7.mrm@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lnkdin-matiasmeza/)](https://www.linkedin.com/in/lnkdin-matiasmeza/)
+* 🔭 **Current Project:** Designing and building a **Football Fantasy App**.
+* 🌱 **Currently Learning:** Expanding my backend ecosystem with **.NET** and C#.
+* ⚡ **Fun Fact:** When I'm not coding, I'm usually listening to music or playing video games with my friends.
 
+---
 
-<h1>👻 Skills</h1>
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Languages** | Java, Spring Boot, Python, .NET *(Learning)* |
+| **Databases**           | SQL, PostgreSQL, MongoDB |
+| **DevOps & Tools**      | Git, Docker, Postman |
+| **Frontend Basics**     | HTML5, CSS3 |
+
+---
 
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
   <a href="https://github.com/RustyGearBox">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,bootstrap,postman," />
-  </a>
-</p>
-
-### ⚙️ &nbsp;Tools
-<p align="left">
-  <a href="https://github.com/RustyGearBox">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,windows,netbeans" />
+   <img src="https://skillicons.dev/icons?i=java,spring,mysql,gradle,maven,idea,python,mongodb,postman,git,html,css,docker,net,bootstrap"/>
   </a>
 </p>
