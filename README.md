@@ -1,7 +1,7 @@
 # Hi there, I'm Matías! 👋
 
 ### 🚀 Backend Developer
-I'm a Backend Developer based in **Barcelona, Spain**, with a background in Mechanical Engineering. I love combining engineering problem-solving with software development to build cool, functional applications. Right now, I'm focusing on building robust backend systems and crafting tools for my friends and me to enjoy.
+I'm a Backend Developer based in **Barcelona, Spain**. I love the software development to build cool, functional applications. Right now, I'm focusing on building robust backend systems and crafting tools for my friends and me to enjoy.
 
 * 🔭 **Current Project:** Designing and building a **Football Fantasy App**.
 * 🌱 **Currently Learning:** Expanding my backend ecosystem with **.NET** and C#.
